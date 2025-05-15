@@ -1,8 +1,6 @@
-#include <cstddef>
+#pragma once
 #include "math.h"
-#include <bit>
-#include <cstdint>
-#include <cstring>
+#include <cstddef>
 namespace micont
 {
     namespace bitwise
